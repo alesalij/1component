@@ -1,0 +1,11 @@
+{
+  "name": "1component",
+  "version": "1.0.0",
+  "description": "first project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alesalij/1component.git"
+  },
+  "author": "Katya",
+  "license": "ISC",
+}
