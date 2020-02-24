@@ -1,3 +1,4 @@
+// файл с логикой
 import * as React from 'react';
 
 import { Checkbox } from './Checkbox';

@@ -1,3 +1,4 @@
+// файл генерирующий html представление
 import * as React from 'react';
 
 type CheckboxProps = {
@@ -21,4 +22,4 @@ function Checkbox(props: CheckboxProps): JSX.Element {
     );
 }
 
-export { Checkbox };
+export { Checkbox }; // при обращении к файлу экспортируется функция 
